@@ -5,11 +5,11 @@
 <h3><b>💻 Computer Engineering Student</b></h3> <br>
 
 <div>
-  (https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-MarquesLOKT)
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=Diego-MarquesLOKT&rank_icon=github&theme=radical" />
+  <a href="https://beacons.ai/Diego-MarquesLOKT">
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=Diego-MarquesLOKT&rank_icon=github&theme=dracula" />
   </a>
   <a href="https://beacons.ai/Diego-MarquesLOKT">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-MarquesLOKT&layout=compact&theme=radical&rank_icon=github"/>
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-MarquesLOKT&layout=compact&theme=dracula&rank_icon=github"/>
   </a>
 </div>
 
