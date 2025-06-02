@@ -5,7 +5,7 @@
 <h3><b>💻 Computer Engineering Student</b></h3> <br>
 
 <div>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-MarquesLOKT)](https://github.com/anuraghazra/github-readme-stats)
+  (https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-MarquesLOKT)
     <img height="150" src="https://github-readme-stats.vercel.app/api?username=Diego-MarquesLOKT&rank_icon=github&theme=radical" />
   </a>
   <a href="https://beacons.ai/Diego-MarquesLOKT">
