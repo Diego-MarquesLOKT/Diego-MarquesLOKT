@@ -4,16 +4,25 @@
 
 <h3><b>💻 Computer Engineering Student</b></h3> <br>
 
-<div>
-  <a href="https://beacons.ai/Diego-MarquesLOKT">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=Diego-MarquesLOKT&rank_icon=github&theme=dracula" />
-  </a>
-  <a href="https://beacons.ai/Diego-MarquesLOKT">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-MarquesLOKT&layout=compact&theme=dracula&rank_icon=github"/>
-  </a>
-</div>
+### 📊 Estatísticas
 
-<div style="margin-bottom: 20px;"></div>
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Diego-MarquesLOKT&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-MarquesLOKT&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
 
 ## 🚀 Tech Stack
 
