@@ -30,15 +30,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Diego-MarquesLOKT&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-MarquesLOKT&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 
 
 ## 🌎 Connect with Me
