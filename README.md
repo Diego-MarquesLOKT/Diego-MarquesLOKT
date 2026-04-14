@@ -58,15 +58,6 @@
   </a>
 </p>
 
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SEUUSUARIO/SEUUSUARIO/output/snake.svg" alt="Snake animation" />
-</p>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SEUUSUARIO&label=Profile+Views&color=8A2BE2&style=for-the-badge" />
