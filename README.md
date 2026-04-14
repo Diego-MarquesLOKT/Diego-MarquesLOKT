@@ -1,33 +1,77 @@
-<h1 align="center">Olá, eu sou o Diego Gilberto Marques! </h1>
+<h1 align="center">Hi, I'm Diego Gilberto Marques 👋</h1>
 
 <p align="center">
-  👨🏻‍💻 Estudante de Programação | 💪 Apaixonado por Tecnologia e Musculação | 🎮 Gamer nas horas vagas
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Computational+Engineering+Student;Python+Developer;C%2B%2B+Programmer;Cybersecurity+Student;Always+learning+new+things" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  💻 Computational Engineering Student at UFJF <br>
+  🚀 Passionate about Technology, Programming and Cybersecurity <br>
+  💪 Fitness Enthusiast | 🎮 Gamer
 </p>
 
 ---
 
-## 📚 Sobre mim
+## 🚀 About Me
 
-- 🎓 Estudante de Engenharia Computacional (Computer Enginnering) na [Universidade Federal de Juiz de Fora (UFJF)](https://www.instagram.com/ufjf/)
-- 🧑 Tenho 19 anos
-
----
-
-## 🔧 Habilidades
-
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+- 🎓 Computational Engineering Student at **Federal University of Juiz de Fora (UFJF)**
+- 🔐 Cybersecurity student
+- 🐍 Learning **Python** and **C++**
+- 🎯 Focused on growth, discipline and building my future in tech
+- 📍 19 years old
 
 ---
 
-## 🌐 Redes Sociais
+## 🛠️ Tech Stack
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/diego_lokt/)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/222716379109916672)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode,linux" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SEUUSUARIO&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌎 Connect with Me
+
+<p align="center">
+  <a href="https://www.instagram.com/diego_lokt/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/222716379109916672">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SEUUSUARIO/SEUUSUARIO/output/snake.svg" alt="Snake animation" />
+</p>
 
 ---
 
 <p align="center">
-  🚧 Em constante desenvolvimento... tanto no código quanto na vida!
+  <img src="https://komarev.com/ghpvc/?username=SEUUSUARIO&label=Profile+Views&color=8A2BE2&style=for-the-badge" />
+</p>
+
+<p align="center">
+  🚧 Always evolving — in code and in life.
 </p>
