@@ -18,7 +18,7 @@
 - 🔐 Cybersecurity student
 - 🐍 Learning **Python** and **C++**
 - 🎯 Focused on growth, discipline and building my future in tech
-- 📍 19 years old
+- 📍 20 years old
 
 ---
 
