@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Diego Gilberto Marques 👋</h1>
+<h1 align="center">Hi, I'm Diego Marques 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Computational+Engineering+Student;Java+Developer;C%2B%2B+Programmer;Cybersecurity+Student;Always+learning+new+things" alt="Typing SVG" />
@@ -18,6 +18,7 @@
 - 🔐 Cybersecurity student
 - ☕ Learning and developing with **Java**
 - ⚙️ Programming with **C++**
+- 🌐 Learning **HTML, CSS and JavaScript**
 - 🎯 Focused on growth, discipline and building my future in tech
 - 📍 20 years old
 
@@ -26,7 +27,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,html,css,js,git,github,linux" alt="Tech Stack" />
 </p>
 
 ---
